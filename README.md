@@ -1,7 +1,3 @@
-# DNAwebApp
-Count Nucleotide on a WebApp
-An Axample of a Web App Capable of Counting The Nucleotides of a Dna
-![](https://github.com/Dizziolica/DNAwebApp/blob/main/dna.gif)
 
 
 
@@ -110,3 +106,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# DNAwebApp
+Count Nucleotide on a WebApp
+An Axample of a Web App Capable of Counting The Nucleotides of a Dna
+![](https://github.com/Dizziolica/DNAwebApp/blob/main/dna.gif)
